@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: adamkss/andra-personal
 
 media_folder: static/assets
 public_folder: assets
